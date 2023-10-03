@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/bin/Debug/net6.0/FirstCsharpProject
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/bin/Debug/net6.0/FirstCsharpProject.deps.json
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/bin/Debug/net6.0/FirstCsharpProject.runtimeconfig.json
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/bin/Debug/net6.0/FirstCsharpProject.dll
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/bin/Debug/net6.0/FirstCsharpProject.pdb
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.AssemblyInfo.cs
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.dll
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/refint/FirstCsharpProject.dll
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.pdb
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/FirstCsharpProject.genruntimeconfig.cache
+/Users/macbookair/Desktop/Csharp/day1/FirstCsharpProject/obj/Debug/net6.0/ref/FirstCsharpProject.dll

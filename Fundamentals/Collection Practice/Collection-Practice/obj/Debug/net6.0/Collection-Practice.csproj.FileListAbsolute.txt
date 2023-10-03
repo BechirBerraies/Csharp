@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.AssemblyInfo.cs
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/bin/Debug/net6.0/Collection-Practice
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/bin/Debug/net6.0/Collection-Practice.deps.json
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/bin/Debug/net6.0/Collection-Practice.runtimeconfig.json
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/bin/Debug/net6.0/Collection-Practice.dll
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/bin/Debug/net6.0/Collection-Practice.pdb
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.dll
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/refint/Collection-Practice.dll
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.pdb
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/Collection-Practice.genruntimeconfig.cache
+/Users/macbookair/Desktop/Csharp/Fundamentals/Collection Practice/Collection-Practice/obj/Debug/net6.0/ref/Collection-Practice.dll
