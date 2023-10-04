@@ -51,6 +51,46 @@ class SLL{
             return this;
         }
     }
+    print()
+    {
+        if(this.isEmpty()){
+            false
+        }else{
+        // print the values of all the nodes 
+        let runner = this.head;
+        while(runner){
+            console.log(runner.value);
+            runner = runner.next;
+        }
+        }
+    }
+    addToBack()
+    {
+    let newNode = new Node(value);
+    if(this.isEmpty()){
+        this.head = newNode;
+    }else{
+        //search for the last node and add the new node
+        let runner = this.head;
+        while(runner.next){
+            runner = runner.next
+        }
+        runner.next = newNode;
+    }
+    }
+    length(){
+        if(this.isEmpty()){
+            return 0
+        }else{
+            let count = 1;
+            let runner = this.head;
+            while(runner.next){
+                count ++ 
+                runner = runner.next
+            }
+            return count
+        }
+    }
 }
 
 let nodeOne = new Node(10);

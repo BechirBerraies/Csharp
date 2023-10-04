@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MHirpkzqID41sTZNy3uqtHr+7g6HVWoz6AOVokTcj1E=",
+  "Source": "FirstWebApp",
+  "BasePath": "_content/FirstWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstWebApp/wwwroot",
+      "Source": "FirstWebApp",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/wwwroot/",
+      "BasePath": "_content/FirstWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/wwwroot/css/styles.css",
+      "SourceId": "FirstWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/wwwroot/",
+      "BasePath": "_content/FirstWebApp",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    }
+  ]
+}

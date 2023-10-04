@@ -18,7 +18,7 @@ In JavaScript :
     }
 */
 
-public class Soldier 
+public abstract class Soldier 
 {
     //Attributes 
     //! Attribute name + get se --> Property
@@ -28,12 +28,13 @@ public class Soldier
     public double Health{get;set;}
 
     //Constructor 
+    //! Access Modifier -- Class Name --- Parameters = Values for Properties
     public Soldier(string name, int age)
     {
-        Name = name;
-        Age = age;
-        Power= 1;
-        Health = 1;
+        Name = name; //  Values as input from the user
+        Age = age;//  Values as input from the user
+        Power= 0.5; // Default Values 
+        Health = 1; // Default Values 
 
 
     }

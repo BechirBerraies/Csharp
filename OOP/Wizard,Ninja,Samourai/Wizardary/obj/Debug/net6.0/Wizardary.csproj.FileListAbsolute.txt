@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/bin/Debug/net6.0/Wizardary
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/bin/Debug/net6.0/Wizardary.deps.json
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/bin/Debug/net6.0/Wizardary.runtimeconfig.json
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/bin/Debug/net6.0/Wizardary.dll
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/bin/Debug/net6.0/Wizardary.pdb
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.AssemblyInfo.cs
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.dll
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/refint/Wizardary.dll
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.pdb
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/Wizardary.genruntimeconfig.cache
+/Users/macbookair/Desktop/Csharp/OOP/Wizard,Ninja,Samourai/Wizardary/obj/Debug/net6.0/ref/Wizardary.dll

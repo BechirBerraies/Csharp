@@ -1,0 +1,32 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirstWebApp
+build_property.RootNamespace = FirstWebApp
+build_property.ProjectDir = /Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/Views/First/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/Views/First/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/Views/First/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/ASP.NET/Cours/FirstWebApp/Views/First/Second.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvU2Vjb25kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
