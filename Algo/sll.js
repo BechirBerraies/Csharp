@@ -91,6 +91,33 @@ class SLL{
             return count
         }
     }
+    removeAtFront()
+    {
+
+        let first = this.head
+        if(this.isEmpty()){
+            return false
+        }else{
+            if(first){
+                first.next = this.head;
+                return this;
+            }
+        }
+
+    }
+    removeAtBack()
+    {
+        if (this.isEmpty()){
+            return false;
+        }else{
+            let runner = this.head;
+            while(runner.next){
+                runner = runner.next
+            }
+            runner = null;
+            console.log(runner.value); 
+        }
+    }
 }
 
 let nodeOne = new Node(10);
@@ -107,6 +134,7 @@ console.log("SLL before",sll);
 console.log("SLL Two Before",sllTwo);
 sll.addToFront(7)
 sllTwo.addToFront(7)
+sll.removeAtFront()
 
 console.log("SLL After",sll);
 console.log("SLL Two After",sllTwo);

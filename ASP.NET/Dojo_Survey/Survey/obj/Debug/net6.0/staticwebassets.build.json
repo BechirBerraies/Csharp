@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Do+cszg94YzMoYJbgoDPovTEWUFVRh/vbmTCF9gqbbg=",
+  "Source": "Survey",
+  "BasePath": "_content/Survey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Survey/wwwroot",
+      "Source": "Survey",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/wwwroot/",
+      "BasePath": "_content/Survey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/wwwroot/css/style.css",
+      "SourceId": "Survey",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/wwwroot/",
+      "BasePath": "_content/Survey",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    }
+  ]
+}

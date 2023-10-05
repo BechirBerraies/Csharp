@@ -1,0 +1,19 @@
+@model List<Student>
+
+
+
+@{
+    foreach (var student in Model)
+    {
+        <div class="card shadow p-3">
+            <h4 class="card-head text-center">@student.Name</h4>
+            <div class="card-body">
+                <h5>Student : @student.Language</h5>
+                <h5>Location : @student.Location</h5>
+                <h5>Comment : @student.Comment</h5>
+            </div>
+
+        </div>
+    }
+    <a href="/">Home</a>
+}

@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Survey
+build_property.RootNamespace = Survey
+build_property.ProjectDir = /Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/Views/My/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXkvRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/Views/My/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXkvUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
