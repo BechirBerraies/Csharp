@@ -99,6 +99,7 @@ public class HomeController : Controller
     ViewBag.ListOfTitles= ListOfTitles;
 
 
+
     //-11 Most Expensive Game
     double Expensive= Games.Max(b => b.Price);
     ViewBag.Expensive= Expensive;
