@@ -13,6 +13,18 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+
+    // Method Post 
+    [httpPost("random")]
+    public IActionResult Result()
+    {
+         Random rnd = new Random();
+    int cd = rnd.Next(0,10);
+    }
+
+
+
+
     public IActionResult Index()
     {
         

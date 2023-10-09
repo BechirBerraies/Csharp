@@ -118,6 +118,54 @@ class SLL{
             console.log(runner.value); 
         }
     }
+    Find(value)
+    {
+        if (this.isEmpty()){
+            return false;
+        }else{
+            let runner = this.head
+            while(runner){
+                if(runner.value == value){
+                    return true
+                }
+                runner = runner.next
+            }
+            return false
+        }
+    }
+    Delete(value)
+    {
+        if (this.isEmpty()){
+            return false
+        }else if(this.head.value == value){
+            this.removeAtFront()
+            return this
+        }
+        else{
+            let runner = this.head
+            while(runner.next){
+                if(runner.next.value == value ){
+                    runner.next = runner.next.next;
+                    return this;
+                }
+                runner = runner.this;
+            }
+        }
+    }
+    reverse(){
+        if (this.isEmpty()){
+            return false
+        }else{
+            let runner = this.heads
+            sllReversed = new SinglyLinkedList()
+            while(runner){
+                sll.addToFront(runner.value)
+
+            }
+            this = sllReversed
+            return this
+        }
+    }
 }
 
 let nodeOne = new Node(10);

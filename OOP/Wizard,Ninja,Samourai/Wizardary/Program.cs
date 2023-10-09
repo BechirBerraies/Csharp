@@ -14,11 +14,11 @@ Ninja Fatma= new Ninja("Fatma",10,10,10);
 // Fatma.Attack(Ali);
 // System.Console.WriteLine($"{Ali.Health} Yezzitchi mel bleda");
 
-System.Console.WriteLine($"Before{Ali.Health}");
-Fatma.Attack(Ali);
-System.Console.WriteLine($"After Attak{Ali.Health}");
-Ali.Meditate();
-System.Console.WriteLine($"After{Ali.Health}");
+// System.Console.WriteLine($"Before{Ali.Health}");
+// Fatma.Attack(Ali);
+// System.Console.WriteLine($"After Attak{Ali.Health}");
+// Ali.Meditate();
+// System.Console.WriteLine($"After{Ali.Health}");
 
 
 

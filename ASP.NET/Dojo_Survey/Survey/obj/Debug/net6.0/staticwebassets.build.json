@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Do+cszg94YzMoYJbgoDPovTEWUFVRh/vbmTCF9gqbbg=",
+  "Hash": "7/sgRKejxjA15hX8vFKIA9ZZo+1/KMFm0NQwWdsEa6k=",
   "Source": "Survey",
   "BasePath": "_content/Survey",
   "Mode": "Default",
@@ -32,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/wwwroot/images/naruto.jpeg",
+      "SourceId": "Survey",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/ASP.NET/Dojo_Survey/Survey/wwwroot/",
+      "BasePath": "_content/Survey",
+      "RelativePath": "images/naruto.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/naruto.jpeg"
     }
   ]
 }

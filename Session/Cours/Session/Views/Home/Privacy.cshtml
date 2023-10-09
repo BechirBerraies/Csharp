@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+    string? Name = Context.Session.GetString("name");
+    string FavFood = Context.Session.GetString("FavFood");
+    int userAge = (int)Context.Session.GetInt32("userAge");
+}
+
+<nav class="d-flex justify-content-between mb-5">
+    <h2>Session App </h2>
+</nav>
+<form action="ClearSession">
+    <input type="submit" value="clear session">
+</form>
+<div class="card shadow">
+    <h4 class="card-head">@Name</h4>
+    <div class="card-body">
+        <div class="card-text h4">Age : @userAge</div>
+        <div class="card-text h4">Favourite Food : @FavFood</div>
+    </div>
+</div>
