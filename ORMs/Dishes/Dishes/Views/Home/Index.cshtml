@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Dish>
+<div class="text-center">
+    <h1 class="display-4">Welcome to CRUDelicious</h1>
+</div>
+
+
+<div class="d-flex justify-content-center ">
+
+    <h2>Home</h2>
+    <a href="/Home/Privacy">Add a Dish</a>
+
+</div>
+
+
+<table class="table table-striped">
+<thead >
+    <tr> 
+                    <th class="text-info">Name</th>
+                    <th class="text-info">Chef</th>
+                    <th class="text-info">Tastiness </th>
+                    <th class="text-info">Calories</th>
+                    <th class="text-info">Description</th>
+                </tr>
+    <tbody>
+                    @{
+                        foreach (Dish dish in Model)
+                        {
+                            <tr>
+                                <td>Name of the Dish :@dish.Name</td>
+                                <td>Chef of the Dish :@dish.Chef</td>
+                                <td>Tastiness : @dish.Tastiness</td>
+                                <td>Calories : @dish.Calories</td>
+                                <td>Comment : @dish.Description</td>
+                                <td>
+                                    <form action="Edit">
+                                <a class="btn btn-success"  href="/Dish/@dish.DishId/view"> View</a>
+
+                                </form>
+
+                                </td>
+                            </tr>
+                        }
+                    }
+
+
+</tbody>
+</thead>
+</table>
+

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+@model Dish
+
+
+<div class="text-center">
+    <h1 class="display-4">Post Your Best Song</h1>
+    <div class="card-body">
+        <form asp-action="CreateDish" asp-controller="Home" method="post">
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="form-label">Name of Dish</label>
+                <input class=" form-control" asp-for="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Chef" class="form-label">Name of Chef</label>
+                <input class=" form-control" name="Chef">
+                <span asp-validation-for="Chef" class="text-danger"></span>
+
+            
+            <div class="form-group mb-3">
+            <span asp-validation-for="Tastiness" class="text-danger"></span>
+            <label asp-for="Tastiness" class="form-ckeck-label">Tastiness :</label>
+            <select name="Tastiness" class="form-select" aria-label="Default select example">
+            <option name="Tastiness" selected>Open this select menu</option>
+            <option name="Tastiness" value="1">One</option>
+            <option name="Tastiness" value="2">Two</option>
+            <option name="Tastiness" value="3">Three</option>
+            <option name="Tastiness" value="4">Four</option>
+            <option name="Tastiness" value="5">Five</option>
+            </select>
+            
+            </div>
+
+
+            <div class="d-flex gap-2 justify-content-center mb-3">
+                <label asp-for="Calories" class="form-ckeck-labell">Calories :</label>
+                <input class="form-control" asp-for="Calories">
+            </div>
+            <div class="d-flex gap-2 justify-content-center mb-3">
+                <label asp-for="Description" class="form-ckeck-labell">Description :</label>
+                <input class="form-control" asp-for="Description">
+            </div>
+            <button class="btn btn-success w-100" type="submit"> Post Your Dish</button>
+        </form>
+    </div>
+
+</div>

@@ -48,22 +48,65 @@ class BinarySearchTree{
             
         }
     }
+    insert(value){
+        let newNode = new Node(value)
+        if(this.isEmpty()){
+            this.root = newNode;
+            return this;
+        }else
+        {
+            let runner = this.root
+            while(runner){
+                // if(2) if(nodeOne) => true
+                // if(null) if("") => false
+                if(runner.value> value){
+                    if(runner.left){
+                        runner = runner.left
+                    }else{
+                        runner.left = newNode
+                        return this
+                    }
+                }else{
+                    if(runner.right){
+                        runner = runner.right
+                    }else{
+                        runner.right= newNode
+                        return this
+                    }
+                }
+            }
+        }
+    }
 
 }
 
-let nodeOne = new Node(10);
+// let nodeOne = new Node(10);
 
-let nodeTwo = new Node(-2)
-let nodeThree = new Node(7)
-let nodeFour = new Node(20)
-let nodeFive = new Node(-5)
-nodeOne.left = nodeTwo;
-nodeTwo.right = nodeThree;
-nodeOne.right = nodeFour;
-nodeTwo.left =nodeFive;
+// let nodeTwo = new Node(-2)
+// let nodeThree = new Node(7)
+// let nodeFour = new Node(20)
+// let nodeFive = new Node(-5)
+// nodeOne.left = nodeTwo;
+// nodeTwo.right = nodeThree;
+// nodeOne.right = nodeFour;
+// nodeTwo.left =nodeFive;
+
+
+
 
 
 const bst = new BinarySearchTree()
+console.log("1 - ",bst);
+bst.insert(10)
+console.log("2 - ",bst);
+bst.insert(-2)
+console.log("3 - ",bst);
+bst.insert(7)
+console.log("4 - ",bst);
+bst.insert(20)
+console.log("5 - ",bst);
 
-bst.root = nodeOne;
-console.log(bst.min());
+
+
+// bst.root = nodeOne;
+// console.log(bst.min());
