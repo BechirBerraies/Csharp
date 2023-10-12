@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+@model User
+<div class="d-flex justify-content-between">
+    <h1>Welcome ,@Model.FirstName!</h1>
+    <form asp-action="Logout" asp-controller="Home" method="post">
+        <input type="submit" value="Logout" class="btn btn-danger">
+    </form>
+</div>
+
+<div>
+    <h4>@Model.FirstName</h4>
+    <h4>@Model.LastName</h4>
+    <h4>@Model.Email</h4>
+    <h4>@Model.CreatedAt</h4>
+</div>

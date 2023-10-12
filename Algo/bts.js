@@ -57,8 +57,6 @@ class BinarySearchTree{
         {
             let runner = this.root
             while(runner){
-                // if(2) if(nodeOne) => true
-                // if(null) if("") => false
                 if(runner.value> value){
                     if(runner.left){
                         runner = runner.left
@@ -75,6 +73,27 @@ class BinarySearchTree{
                     }
                 }
             }
+        }
+    }
+    find(value){
+        if(this.isEmpty() ){
+            return false
+        }
+        else{
+            let runner = this.root
+            while(runner){
+                if (runner.value ==  value){
+                    return true;
+                }
+                else {
+                    if(runner.value > value){
+                        runner = runner.left
+                    }else{
+                        runner = runner.right;
+                    }
+                }
+            }
+            return false
         }
     }
 
@@ -96,17 +115,20 @@ class BinarySearchTree{
 
 
 const bst = new BinarySearchTree()
-console.log("1 - ",bst);
+// console.log("1 - ",bst);
 bst.insert(10)
-console.log("2 - ",bst);
+// console.log("2 - ",bst);
 bst.insert(-2)
-console.log("3 - ",bst);
+// console.log("3 - ",bst);
 bst.insert(7)
-console.log("4 - ",bst);
+// console.log("4 - ",bst);
 bst.insert(20)
-console.log("5 - ",bst);
+// console.log("5 - ",bst);
+// bst.find(7);
+// console.log("5 - ",bst);
+console.log("6 - ",bst);
 
 
-
+console.log("Find 20 in BST :", bst.find(3));
 // bst.root = nodeOne;
 // console.log(bst.min());
