@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LogReg.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20231012090713_FirstMigrationDbCreation")]
-    partial class FirstMigrationDbCreation
+    [Migration("20231013091154_FirstManytoMany")]
+    partial class FirstManytoMany
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -20,6 +20,33 @@ namespace LogReg.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "6.0.3")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
+
+            modelBuilder.Entity("LogReg.Models.Like", b =>
+                {
+                    b.Property<int>("LikeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<int>("PostId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("LikeId");
+
+                    b.HasIndex("PostId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Likes");
+                });
 
             modelBuilder.Entity("LogReg.Models.Post", b =>
                 {
@@ -88,15 +115,44 @@ namespace LogReg.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("LogReg.Models.Post", b =>
+            modelBuilder.Entity("LogReg.Models.Like", b =>
                 {
-                    b.HasOne("LogReg.Models.User", "Poster")
+                    b.HasOne("LogReg.Models.Post", "Poster")
+                        .WithMany("PostLikes")
+                        .HasForeignKey("PostId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LogReg.Models.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Poster");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("LogReg.Models.Post", b =>
+                {
+                    b.HasOne("LogReg.Models.User", "Poster")
+                        .WithMany("MyPosts")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Poster");
+                });
+
+            modelBuilder.Entity("LogReg.Models.Post", b =>
+                {
+                    b.Navigation("PostLikes");
+                });
+
+            modelBuilder.Entity("LogReg.Models.User", b =>
+                {
+                    b.Navigation("MyPosts");
                 });
 #pragma warning restore 612, 618
         }

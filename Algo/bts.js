@@ -95,6 +95,55 @@ class BinarySearchTree{
             }
             return false
         }
+        
+    }
+    removeMinValue(){
+        if(this.isEmpty()){
+            return false
+        }
+        else{
+            let runner = this.root
+            if(runner.left == null)
+            {
+            this.root = runner.right
+            return this;
+            }else{
+                while(runner.left){
+                    if(runner.left.left == null)
+                    {
+                        runner.left = null
+                        return this
+                    }else{
+                        runner = runner.left
+                    }
+                }
+                return this
+            }
+        }
+    }
+    removeMaxValue(){
+        if(this.isEmpty()){
+            return false
+        }
+        else{
+            let runner = this.root
+            if(runner.right == null)
+            {
+            this.root = runner.left
+            return this;
+            }else{
+                while(runner.right){
+                    if(runner.right.right == null)
+                    {
+                        runner.right = null
+                        return this
+                    }else{
+                        runner = runner.right
+                    }
+                }
+                return this
+            }
+        }
     }
 
 }
@@ -130,5 +179,11 @@ console.log("6 - ",bst);
 
 
 console.log("Find 20 in BST :", bst.find(3));
+
+
+console.log("Remove last :" ,bst.removeMaxValue());
+
+console.log(bst);
+
 // bst.root = nodeOne;
 // console.log(bst.min());

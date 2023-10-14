@@ -49,6 +49,7 @@ public class User
     //public Post MyPost {get;set;} 
 
     public List<Post> MyPosts { get; set; }= new List<Post>();
+    public List<Like> LikedPosts {get;set;} = new List<Like>();
 
 
 }

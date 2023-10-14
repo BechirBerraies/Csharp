@@ -111,8 +111,13 @@ private MyContext _context;
         {
             return RedirectToAction("Index");
         }
-        List<Post> AllPostsWithPoster = _context.Posts.Include(p => p.Poster).ToList();
-        return View(AllPostsWithPoster);
+
+        List<Post> AllPostsWithPoster = _context.Posts.Include(p => p.PostLikes).ToList();
+        AllPostsView AllPostsView = new()
+        {
+            AllPosts = AllPostsWithPoster
+        };
+        return View(AllPostsView);
     }
 
     [HttpPost("posts/create")]
@@ -146,7 +151,7 @@ public IActionResult Profile()
             return RedirectToAction("Index");
         }
         int? userId = (int)HttpContext.Session.GetInt32("userId");
-        User? user = _context.Users.Include(u => u.MyPosts).FirstOrDefault(u => u.UserId == userId);
+        User? user = _context.Users.Include(u => u.MyPosts).ThenInclude(p => p.PostLikes).FirstOrDefault(u => u.UserId == userId);
         return View(user);
     }
 
@@ -189,10 +194,50 @@ public IActionResult Profile()
         return View();
     }
 
-
+// *********************************************** LIKES *************************************
     
 
     
+[HttpPost("likes/create")]
+public IActionResult Like(Like newLike)
+{
+    if(ModelState.IsValid)
+    {
+    //1 Add 
+        _context.Add(newLike);
+
+    //2 Save
+    _context.SaveChanges();
+    return RedirectToAction("AllPosts");
+    }
+return RedirectToAction("AllPosts");
+    
+}
+
+
+    
+[HttpPost("likes/destroy")]
+public IActionResult UnLike(Like LikeToDelete)
+{
+    if(ModelState.IsValid)
+    {
+    //1 Add 
+        _context.Remove(LikeToDelete);
+
+    //2 Save
+    _context.SaveChanges();
+    return RedirectToAction("AllPosts");
+    }
+return RedirectToAction("AllPosts");
+    
+}
+
+
+
+
+
+
+
 
 
 

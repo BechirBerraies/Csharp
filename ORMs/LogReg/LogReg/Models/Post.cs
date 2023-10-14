@@ -34,5 +34,6 @@ public class Post
 
     //! Navigation Property
     public User? Poster { get; set; }
+    public List<Like> PostLikes {get;set;} = new List<Like>();
 
 }

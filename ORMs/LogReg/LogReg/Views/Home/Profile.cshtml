@@ -30,7 +30,7 @@
                                 <th>Title</th>
                                 <th>Subject</th>
                                 <th>Content</th>
-                                <th>Poster</th>
+                                <th>Likes</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -42,6 +42,7 @@
                                         <td>@post.Title</td>
                                         <td>@post.Subject</td>
                                         <td>@post.Content</td>
+                                        <td>@post.PostLikes.Count()</td>
                                     </tr>
                                 }
                             }

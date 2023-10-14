@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DishesOneToMany.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20231012171112_DishesMigration")]
+    [Migration("20231013070533_DishesMigration")]
     partial class DishesMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
