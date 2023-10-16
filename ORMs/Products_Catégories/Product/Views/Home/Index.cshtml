@@ -1,8 +1,74 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Privacy Policy";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+@model Produit
+
+<div class="container">
+<div class="d-flex justify-content-between">
+
+</div>
+    <div class="row">
+        <div class="col-6">
+            <div class="col-6 card shadow">
+            <div class="card-header h2">Add Product </div>
+            <div class="card-body">
+            <form asp-action="CreateProduct" asp-controller="Home" method="post">
+                <div class="form-group mb-3">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                    </div>
+
+
+                <div class="form-group mb-3">
+                    <label asp-for="Description"></label>
+                    <input asp-for="Description" class="form-control">
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                    </div>
+
+
+                    <div class="form-group mb-3">
+                    <label asp-for="Price"></label>
+                    <input asp-for="Price" class="form-control">
+                    <span class="text-danger" asp-validation-for="Price"></span>
+                    </div>
+                    <div>
+                        <input type="submit" class="btn btn-success" value="Submit">
+                    </div>
+
+                    
+            </form>
+            </div>
+        </div>
+        </div>
+                <div class="col-6">
+            <div class="border bg-light bg-dragient-25">
+                <table class="table-striped hover">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            foreach (Produit post in ViewBag.AllProducts)
+                            {
+                                <tr>
+                                    <form asp-action="ViewProduct" asp-route-id="@post.ProductId" >@post.Name @post.ProductId
+                                    <input type="hidden"  asp-for="@post.ProductId" >
+                                    <button type="submit ">Click </button>
+                                    </form>
+                                </tr>
+                            }
+                        }
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 </div>

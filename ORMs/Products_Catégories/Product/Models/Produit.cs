@@ -21,4 +21,6 @@ public  class Produit
     public DateTime UpdatedAt {get;set;} = DateTime.Now;
 
 
+    //! Navigation Property 
+    public List<Association> ProduitAssociate {get;set;} = new List<Association>();
 }
