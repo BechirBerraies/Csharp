@@ -116,6 +116,7 @@ private MyContext _context;
         AllPostsView AllPostsView = new()
         {
             AllPosts = AllPostsWithPoster
+
         };
         return View(AllPostsView);
     }
@@ -195,9 +196,9 @@ public IActionResult Profile()
     }
 
 // *********************************************** LIKES *************************************
-    
 
-    
+
+
 [HttpPost("likes/create")]
 public IActionResult Like(Like newLike)
 {

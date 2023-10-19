@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WeddingPlanner
+build_property.RootNamespace = WeddingPlanner
+build_property.ProjectDir = /Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Shared/_Participate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWNpcGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Shared/_UnParticipate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19VblBhcnRpY2lwYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Users/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Users/LogReg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvTG9nUmVnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Users/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvX0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Users/_Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvX1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Weddings/EditWedding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2VkZGluZ3MvRWRpdFdlZGRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Weddings/ShowWedding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2VkZGluZ3MvU2hvd1dlZGRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Weddings/Wedding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2VkZGluZ3MvV2VkZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Weddings/_SingleWedding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2VkZGluZ3MvX1NpbmdsZVdlZGRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Wedding/WeddingPlanner/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ea6ei0eauq

@@ -1,0 +1,38 @@
+@{
+    int UserId = (int)Context.Session.GetInt32("userId");
+}
+
+@await Html.PartialAsync("_Navbar")
+@model List<Order>
+
+<div class="container mt-5">
+    <h1 class="mb-5">Order History</h1>
+    <div class="card shadow">
+        <h4 class="card-head"></h4>
+        <div class="card-body">
+            <table class="table table-striped border">
+                <thead></thead>
+                <tbody>
+@foreach(Order order in Model)
+    {
+        <tr>
+            <td>@order.Craft.Title</td>
+            <td>@order.Craft.Owner.Username</td>
+            <td>@order.Quantity </td>
+            @{
+                double sum = order.Quantity * order.Craft.Price;
+            }
+            <td>@{order.Quantity * order.Craft.Price} </td>
+            <td>@order.Craft.Title</td>
+        </tr>
+        <br>
+    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+   
+</div>
+

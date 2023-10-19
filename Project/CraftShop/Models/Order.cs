@@ -25,7 +25,7 @@ public class Order
 
 
     [Required(ErrorMessage="How many do you want ")]
-    [Range(0,Int32.MaxValue,ErrorMessage ="Please enter valid Quantity")]
+    [Range(1,Int32.MaxValue,ErrorMessage ="Please enter valid Quantity")]
     public int Quantity {get;set;}
 
 

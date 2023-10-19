@@ -14,5 +14,7 @@ public  class Categories
     public DateTime CreatedAt {get;set;} = DateTime.Now;
     public DateTime UpdatedAt {get;set;} = DateTime.Now;
 
+    //! Navigation Property 
+    public List<Categories> CategoriesAssociate {get;set;} = new List<Categories>();
 
 }
