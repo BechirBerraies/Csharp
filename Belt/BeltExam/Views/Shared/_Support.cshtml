@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Project Page";
+    int userId = (int)Context.Session.GetInt32("userId");
+}
+
+
+
+@model Support 
+
+
+
+<form asp-action="Support" asp-controller="Supports" method="post">
+
+
+    <input type="hidden" asp-for="@Model.UserId">
+    <input type="hidden" asp-for="@Model.ProjectId">
+    <input class="form-control" name="Amount" asp-for="@Model.Amount">
+    <button type="submit" class="btn btn-primary">✅ Support</button>
+    
+</form>

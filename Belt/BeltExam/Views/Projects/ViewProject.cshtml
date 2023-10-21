@@ -1,0 +1,87 @@
+@{
+    ViewData["Title"] = "View Page Wedding";
+    int userId = (int)Context.Session.GetInt32("userId");
+}
+
+@model Project
+
+@await Html.PartialAsync("_Navbar")
+
+<div class="container text-center">
+    <p>@Model.Goal/@Model.Supporters.Sum(p => p.Amount).ToString()</p>
+
+    <h1>@Model.Title</h1>
+    <p>@Model.Description</p>
+    <div class="bigbox d-flex justify-content-between">
+
+
+
+        <div class="box1 ">
+            <h1>@Model.Supporters.Sum(p => p.Amount)</h1>
+            <h1>Goal : @Model.Goal</h1>
+            <h2>Progress: @(Model.Supporters.Sum(p => p.Amount) * 100 / Model.Goal)%</h2>
+            <div class="progress">
+
+
+
+
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
+</div>
+            <br>
+            <h1>@Model.Supporters.Count()</h1>
+            <p>Supporters</p>
+
+
+
+@{
+    DateTime currentTime = DateTime.Now;
+    TimeSpan timeLeft = Model.EndDate - currentTime;
+}
+<h1>Ends: @Model.EndDate</h1>
+<h2>Time Left: @timeLeft.ToString("dd' days 'hh' hours 'mm' minutes 'ss' seconds'")</h2>
+        </div>
+
+        <div class="box2">
+            <h1>support this Project</h1>
+
+        
+            @{
+                if (@Model.EndDate > DateTime.Now )
+                {
+                    
+                if(Model.UserId == userId ){
+                
+                <h1>You can't Support Your Own Project </h1> 
+                        }
+                else{
+                    Support newSupport = new()
+                {
+                        UserId = userId,
+                        ProjectId = Model.ProjectId,
+                        };
+                            @await Html.PartialAsync("_Support",newSupport)
+                }        
+                }
+
+                        
+                }
+
+                
+
+        </div>  
+    </div>
+
+
+
+
+</div>
+
+
+
+
+
+

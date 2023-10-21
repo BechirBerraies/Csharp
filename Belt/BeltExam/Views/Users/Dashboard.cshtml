@@ -1,0 +1,62 @@
+@{
+    string FirstName = Context.Session.GetString("FirstName");
+    int userId = (int)Context.Session.GetInt32("userId");
+
+}
+
+@model List<Project>
+
+@await Html.PartialAsync("_Navbar")
+<div class="container">
+    <h1>Welcome, @FirstName</h1>
+</div>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Project Title </th>
+            <th>Total Founded </th>
+            <th>Creator</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Project proj in Model)
+        {
+            <tr>
+                <td>
+                        @proj.Title
+                </td>
+                <td>
+                    @proj.Supporters.Sum(p => p.Amount)
+                    <h2>Progress: @(proj.Supporters.Sum(p => p.Amount) * 100 / proj.Goal)%</h2>
+                </td>
+                <td>
+                @proj.myCreator.FirstName @proj.myCreator.LastName
+                </td>
+                <td>
+                    @if (userId == proj.UserId)
+                    {
+                        <div class="d-flex gap-2">
+                                <a href="/projects/@proj.ProjectId" class="btn btn-success"> View </a>
+                            <div>
+                                <form asp-action="DeleteProject" asp-controller="Projects" method="post">
+                                    <input type="hidden" name="ProjId" value="@proj.ProjectId">
+                                    <input type="submit" value="Delete" class="btn btn-danger">
+                                </form>
+                            </div>
+                        </div>
+
+                    }
+                    else
+                    {
+                        <a href="/projects/@proj.ProjectId" class="btn btn-success"> View </a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
