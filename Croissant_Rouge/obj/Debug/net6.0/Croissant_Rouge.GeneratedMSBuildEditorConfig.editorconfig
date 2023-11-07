@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Croissant_Rouge
+build_property.RootNamespace = Croissant_Rouge
+build_property.ProjectDir = /Users/macbookair/Desktop/Csharp/Croissant_Rouge/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/macbookair/Desktop/Csharp/Croissant_Rouge
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Donations/AllDonations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL0RvbmF0aW9ucy9BbGxEb25hdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL0hvbWUvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1NoYXJlZC9FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Shared/_AdminNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1NoYXJlZC9fQWRtaW5OYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1NoYXJlZC9fTmF2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Shared/_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1NoYXJlZC9fbmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1NoYXJlZC9fVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL0Rhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/Donate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL0RvbmF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL0VkaXRQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/LogReg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL0xvZ1JlZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL015UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL19Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Users/_Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1VzZXJzL19SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Donations/AllDonations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0FsbERvbmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Shared/_AdminNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbk5hdkJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Shared/_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19uYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/Donate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRG9uYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRWRpdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/LogReg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvTG9nUmVnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvTXlQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvX0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Users/_Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvX1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JvaXNzYW50X1JvdWdlL1ZpZXdzL1NoYXJlZC9fTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-fr8h1pxyqb
+
+[/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-48kslwxio6

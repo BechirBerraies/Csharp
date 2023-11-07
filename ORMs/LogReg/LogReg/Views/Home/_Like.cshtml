@@ -1,9 +1,8 @@
-
 @model Like
 
-                                        <form asp-action="Like" asp-controller="Home" method="post">
-                                        
-                                            <input type="hidden" asp-for="@Model.PostId">
-                                            <input type="hidden"  asp-for="@Model.UserId" >
-                                        <button type="submit" class="btn btn-primary">👍</button>
-                                        </form>
+<form asp-action="Like" asp-controller="Home" method="post">
+
+    <input type="hidden" asp-for="@Model.PostId">
+    <input type="hidden" asp-for="@Model.UserId">
+    <button type="submit" class="btn btn-primary">👍</button>
+</form>

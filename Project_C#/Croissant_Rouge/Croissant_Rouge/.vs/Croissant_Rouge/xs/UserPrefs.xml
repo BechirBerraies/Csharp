@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{EE6670A6-B119-45EE-B483-26F89252CAC9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Users/_Login.cshtml">
+    <Files>
+      <File FileName="Views/Shared/_UserNav.cshtml" />
+      <File FileName="Program.cs" Line="36" Column="1" />
+      <File FileName="Views/Users/_Login.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Users/_Register.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/UsersController.cs" Line="1" Column="1" />
+      <File FileName="Views/Shared/_VisitorNav.cshtml" Line="22" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Croissant_Rouge" expanded="True">
+            <Node name="Views" expanded="True" />
+            <Node name="Croissant_Rouge">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Donations" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Shippers" expanded="True" />
+                <Node name="Users" expanded="True">
+                  <Node name="_Login.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Croissant__Rouge PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

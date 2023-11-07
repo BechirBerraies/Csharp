@@ -26,5 +26,4 @@ public class Participation
     // //! Navigation Property
     public Wedding? Wedding { get; set; }
     public User? User { get; set; }
- 
 }

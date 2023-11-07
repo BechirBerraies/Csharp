@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{517CB690-94C4-4546-BE52-4527962EB63A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Croissant_Rouge/Controllers/UsersController.cs">
+    <Files>
+      <File FileName="Croissant_Rouge/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Shared/_navbar.cshtml" Line="16" Column="26" />
+      <File FileName="Croissant_Rouge/Views/Shared/_SecondNavBar.cshtml" Line="21" Column="10" />
+      <File FileName="Croissant_Rouge/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Home/Index.cshtml" Line="13" Column="2" />
+      <File FileName="Croissant_Rouge/Models/User.cs" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Controllers/UsersController.cs" Line="36" Column="1" />
+      <File FileName="Croissant_Rouge/Models/Money.cs" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Models/LoginUser.cs" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Users/Dashboard.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Users/_Register.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Users/EditProfile.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Users/LogReg.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Users/MyProfile.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Views/Users/_Login.cshtml" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Models/MyContext.cs" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Models/Shipment.cs" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Models/Donation.cs" Line="1" Column="1" />
+      <File FileName="Croissant_Rouge/Models/Description.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Croissant_Rouge" expanded="True">
+            <Node name="Croissant_Rouge">
+              <Node name="Controllers" expanded="True">
+                <Node name="UsersController.cs" selected="True" />
+              </Node>
+              <Node name="Views">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Users" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Croissant__Rouge FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

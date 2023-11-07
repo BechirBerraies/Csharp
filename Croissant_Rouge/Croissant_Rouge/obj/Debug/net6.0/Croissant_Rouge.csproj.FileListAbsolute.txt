@@ -1,0 +1,119 @@
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/appsettings.Development.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/appsettings.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.staticwebassets.runtime.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.deps.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.runtimeconfig.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.pdb
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Humanizer.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/MySqlConnector.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.CodeDom.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.Text.Json.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.AssemblyInfo.cs
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.RazorAssemblyInfo.cache
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.RazorAssemblyInfo.cs
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.Croissant_Rouge.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.build.Croissant_Rouge.props
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Croissant_Rouge.props
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Croissant_Rouge.props
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/staticwebassets.build.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/staticwebassets.development.json
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/scopedcss/bundle/Croissant_Rouge.styles.css
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/scopedcss/projectbundle/Croissant_Rouge.bundle.scp.css
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.CopyComplete
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/refint/Croissant_Rouge.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.pdb
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.genruntimeconfig.cache
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/ref/Croissant_Rouge.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/appsettings.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.staticwebassets.runtime.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.exe
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.deps.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.runtimeconfig.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Croissant_Rouge.pdb
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.AssemblyReference.cache
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.AssemblyInfoInputs.cache
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.AssemblyInfo.cs
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.CoreCompileInputs.cache
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.RazorAssemblyInfo.cache
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.RazorAssemblyInfo.cs
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.Croissant_Rouge.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.build.Croissant_Rouge.props
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Croissant_Rouge.props
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Croissant_Rouge.props
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/scopedcss/bundle/Croissant_Rouge.styles.css
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/scopedcss/projectbundle/Croissant_Rouge.bundle.scp.css
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.CopyComplete
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/refint/Croissant_Rouge.dll
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.pdb
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.genruntimeconfig.cache
+C:/Users/Wissem/Desktop/Project C#.Net/Croissant_Rouge/obj/Debug/net6.0/ref/Croissant_Rouge.dll
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.AssemblyInfo.cs
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.RazorAssemblyInfo.cache
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.RazorAssemblyInfo.cs
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.dll
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/refint/Croissant_Rouge.dll
+/Users/macbookair/Desktop/Csharp/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.pdb

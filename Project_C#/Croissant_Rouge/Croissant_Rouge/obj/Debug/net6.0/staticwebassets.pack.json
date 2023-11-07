@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/scopedcss/projectbundle/Croissant_Rouge.bundle.scp.css",
+      "PackagePath": "staticwebassets/Croissant_Rouge.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/css/Card.css",
+      "PackagePath": "staticwebassets/css/Card.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/css/CardHome1.css",
+      "PackagePath": "staticwebassets/css/CardHome1.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/css/Counter.css",
+      "PackagePath": "staticwebassets/css/Counter.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/css/Event.css",
+      "PackagePath": "staticwebassets/css/Event.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/js/Categories.js",
+      "PackagePath": "staticwebassets/js/Categories.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/js/Home.js",
+      "PackagePath": "staticwebassets/js/Home.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/108bead1-2ba4-4370-a538-ef72887098d5.jpeg",
+      "PackagePath": "staticwebassets/uploads/108bead1-2ba4-4370-a538-ef72887098d5.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/24240427-e971-4bd0-b0df-cdfde6011bc9.png",
+      "PackagePath": "staticwebassets/uploads/24240427-e971-4bd0-b0df-cdfde6011bc9.png"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/31b348f0-6423-4c20-9909-b2ee29e3a9cc.jpeg",
+      "PackagePath": "staticwebassets/uploads/31b348f0-6423-4c20-9909-b2ee29e3a9cc.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/3be65e06-87f7-4ef2-9538-af1c1a69c2da.jpeg",
+      "PackagePath": "staticwebassets/uploads/3be65e06-87f7-4ef2-9538-af1c1a69c2da.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/4bbd6fca-5b4a-4201-b53d-dc9d07d0af29.jpeg",
+      "PackagePath": "staticwebassets/uploads/4bbd6fca-5b4a-4201-b53d-dc9d07d0af29.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/6da90d49-7fbe-4fa8-8e97-4170a6923d82.png",
+      "PackagePath": "staticwebassets/uploads/6da90d49-7fbe-4fa8-8e97-4170a6923d82.png"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/bae2b097-794d-4b3b-9c69-4e4da0489e3e.jpeg",
+      "PackagePath": "staticwebassets/uploads/bae2b097-794d-4b3b-9c69-4e4da0489e3e.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/c2c1da11-88a0-4e36-b768-e6dbfa944ddd.png",
+      "PackagePath": "staticwebassets/uploads/c2c1da11-88a0-4e36-b768-e6dbfa944ddd.png"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/c492d88c-7bd9-49b9-9fec-9d32d692f04e.jpeg",
+      "PackagePath": "staticwebassets/uploads/c492d88c-7bd9-49b9-9fec-9d32d692f04e.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/ca5c5210-b233-42ce-a123-3f5aab502e5e.jpeg",
+      "PackagePath": "staticwebassets/uploads/ca5c5210-b233-42ce-a123-3f5aab502e5e.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/d2bebd9d-250b-400c-b507-cca954c82559.jpeg",
+      "PackagePath": "staticwebassets/uploads/d2bebd9d-250b-400c-b507-cca954c82559.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/e7a61c9f-ce69-4224-a7b2-e6018d4d1cf9.png",
+      "PackagePath": "staticwebassets/uploads/e7a61c9f-ce69-4224-a7b2-e6018d4d1cf9.png"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/ecbaf358-c323-44fc-91a4-1835c1aa7c9c.jpeg",
+      "PackagePath": "staticwebassets/uploads/ecbaf358-c323-44fc-91a4-1835c1aa7c9c.jpeg"
+    },
+    {
+      "Id": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/fc608dbd-acb1-40f9-9add-42ee960e7167.jpeg",
+      "PackagePath": "staticwebassets/uploads/fc608dbd-acb1-40f9-9add-42ee960e7167.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Croissant_Rouge.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Croissant_Rouge.props",
+      "PackagePath": "build\\Croissant_Rouge.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Croissant_Rouge.props",
+      "PackagePath": "buildMultiTargeting\\Croissant_Rouge.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Croissant_Rouge.props",
+      "PackagePath": "buildTransitive\\Croissant_Rouge.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
