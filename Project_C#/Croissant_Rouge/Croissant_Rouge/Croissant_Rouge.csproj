@@ -17,16 +17,19 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Stripe.net" Version="43.0.0" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Users\" />
     <None Remove="Views\Donations\" />
     <None Remove="Views\Shippers\" />
+    <None Remove="Views\Money\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Users\" />
     <Folder Include="Views\Donations\" />
     <Folder Include="Views\Shippers\" />
+    <Folder Include="Views\Money\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Shared\_SecondNavBar.cshtml" />

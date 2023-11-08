@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema; // New import for ****
 
+
+
 namespace Croissant_Rouge.Models
 {
     public class User
@@ -38,16 +40,17 @@ namespace Croissant_Rouge.Models
         [Required(ErrorMessage = "Please enter your Address.")]
         public string Address { get; set; }
 
+        //CIN
+        [MinLength(8, ErrorMessage = "Unvalid CIN number")]
+        public string CIN { get; set; }
 
-        //Role
-        public enum role
-        {
-            Admin, User, Shipper
-        }
+
+
+
+
+
         [Required(ErrorMessage = "What is your role")]
-        public role Role { get; set; }
-
-
+        public Utility.Utility.Roles Role { get; set; }
 
 
         // Password

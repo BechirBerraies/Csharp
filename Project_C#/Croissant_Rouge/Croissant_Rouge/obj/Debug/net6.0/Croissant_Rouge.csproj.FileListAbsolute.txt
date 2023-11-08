@@ -52,3 +52,17 @@
 /Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.pdb
 /Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/Croissant_Rouge.genruntimeconfig.cache
 /Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/ref/Croissant_Rouge.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/Stripe.net.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/obj/Debug/net6.0/scopedcss/Views/Donations/Donate.cshtml.rz.scp.css

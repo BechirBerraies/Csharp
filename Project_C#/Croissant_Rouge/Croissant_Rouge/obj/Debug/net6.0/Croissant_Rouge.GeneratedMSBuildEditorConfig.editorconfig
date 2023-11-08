@@ -20,16 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0FsbERvbmF0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Donations/Donate.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0RvbmF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Donations/OneDonation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL09uZURvbmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Donations/ValidateDonations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL1ZhbGlkYXRlRG9uYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Money/Money.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9uZXkvTW9uZXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Money/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9uZXkvU3VjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Shared/Error.cshtml]
@@ -104,10 +108,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Users/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Users/LogReg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvTG9nUmVnLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -131,6 +131,10 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Donations/Donate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9uYXRpb25zL0RvbmF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-2y6cs68t8r
 
 [/Users/macbookair/Desktop/Csharp/Project_C\#/Croissant_Rouge/Croissant_Rouge/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s

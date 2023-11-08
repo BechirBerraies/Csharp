@@ -32,14 +32,14 @@ public class ShippersController : Controller
             _context.Donations
             .Include(s => s.Donner)
             .Include(h => h.Shipment)
-            .Where(s => s.status == Donation.statuses.Valid)
+            .Where(s => s.status == Utility.Utility.Status.Valid)
             .ToList();
 
         List<Shipment> AllShippments =
             _context.Shipments
             .Include(g=> g.Donation)
             .ThenInclude(h => h.Donner)
-            .Where(s => s.UserId == userId && s.ShipStatus == Shipment.Shipstatuses.Received)
+            .Where(s => s.UserId == userId && s.ShipStatus == Utility.Utility.ShipStatus.Received)
 
             .ToList();
             
@@ -107,7 +107,7 @@ public class ShippersController : Controller
     {
         Shipment? OneShipment = _context.Shipments
             .FirstOrDefault(shipment => shipment.ShipmentId == id);
-        OneShipment.ShipStatus = Shipment.Shipstatuses.Received;
+        OneShipment.ShipStatus = Utility.Utility.ShipStatus.Received;
         _context.SaveChanges();
         return RedirectToAction("ShipperDashboard");
     }
@@ -169,6 +169,7 @@ public class ShippersController : Controller
             return RedirectToAction("LogReg", "Users");
         }
         List<User> ShipperList = _context.Users
+            .Where(user=> user.Role == Utility.Utility.Roles.Shipper)
             .ToList();
         return View("ShipperList", ShipperList);
     }

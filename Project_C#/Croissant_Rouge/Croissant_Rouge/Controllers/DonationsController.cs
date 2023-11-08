@@ -26,7 +26,7 @@ public class DonationsController : Controller
         }
         List<Donation> AllDonations = _context.Donations
     .Include(donnation => donnation.Donner)
-    .Where(s => s.status == Donation.statuses.Unvalid)
+    .Where(s => s.status == Utility.Utility.Status.Unvalid)
     .ToList();
 
         return View(AllDonations);
@@ -75,7 +75,7 @@ public class DonationsController : Controller
     {
         Donation? OneDonation = _context.Donations
             .FirstOrDefault(donation => donation.DonationId == donationId);
-        OneDonation.status = Donation.statuses.Valid;
+        OneDonation.status = Utility.Utility.Status.Valid;
         _context.SaveChanges();
         return RedirectToAction("ValidateDonations");
     }
@@ -94,7 +94,7 @@ public class DonationsController : Controller
             .Include(donnation => donnation.Donner)
             .Include(d => d.Shipment)
             .ThenInclude(b => b.Shipper)
-            .Where(s => s.status == Donation.statuses.Valid)
+            .Where(s => s.status == Utility.Utility.Status.Valid)
             .ToList();
         return View(ValidateDonations);
     }

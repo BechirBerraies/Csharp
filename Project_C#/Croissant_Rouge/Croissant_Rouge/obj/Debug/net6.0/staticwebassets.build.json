@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QEDYv4IadexuRZ2wl2nxFnW3r94pFByFCFHmcLY8xx0=",
+  "Hash": "tacgDT9gIXjcI+AOKL1LtZsGBavliFEpkkPyE0hX4Wg=",
   "Source": "Croissant_Rouge",
   "BasePath": "_content/Croissant_Rouge",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/Categories.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/js/Donate.js",
+      "SourceId": "Croissant_Rouge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/",
+      "BasePath": "_content/Croissant_Rouge",
+      "RelativePath": "js/Donate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Donate.js"
     },
     {
       "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/js/Home.js",
@@ -1190,6 +1207,23 @@
       "OriginalItemSpec": "wwwroot/uploads/108bead1-2ba4-4370-a538-ef72887098d5.jpeg"
     },
     {
+      "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/1ed5869c-9cde-4246-a0b4-f5873aef1522.jpeg",
+      "SourceId": "Croissant_Rouge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/",
+      "BasePath": "_content/Croissant_Rouge",
+      "RelativePath": "uploads/1ed5869c-9cde-4246-a0b4-f5873aef1522.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/1ed5869c-9cde-4246-a0b4-f5873aef1522.jpeg"
+    },
+    {
       "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/24240427-e971-4bd0-b0df-cdfde6011bc9.png",
       "SourceId": "Croissant_Rouge",
       "SourceType": "Discovered",
@@ -1205,6 +1239,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/24240427-e971-4bd0-b0df-cdfde6011bc9.png"
+    },
+    {
+      "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/2ef1c605-b5c3-45e3-b454-72b455839ddc.png",
+      "SourceId": "Croissant_Rouge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/",
+      "BasePath": "_content/Croissant_Rouge",
+      "RelativePath": "uploads/2ef1c605-b5c3-45e3-b454-72b455839ddc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/2ef1c605-b5c3-45e3-b454-72b455839ddc.png"
     },
     {
       "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/31b348f0-6423-4c20-9909-b2ee29e3a9cc.jpeg",
@@ -1241,6 +1292,23 @@
       "OriginalItemSpec": "wwwroot/uploads/3be65e06-87f7-4ef2-9538-af1c1a69c2da.jpeg"
     },
     {
+      "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/447e7216-9085-4d23-8686-7825bf759b48.jpg",
+      "SourceId": "Croissant_Rouge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/",
+      "BasePath": "_content/Croissant_Rouge",
+      "RelativePath": "uploads/447e7216-9085-4d23-8686-7825bf759b48.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/447e7216-9085-4d23-8686-7825bf759b48.jpg"
+    },
+    {
       "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/4bbd6fca-5b4a-4201-b53d-dc9d07d0af29.jpeg",
       "SourceId": "Croissant_Rouge",
       "SourceType": "Discovered",
@@ -1256,6 +1324,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/4bbd6fca-5b4a-4201-b53d-dc9d07d0af29.jpeg"
+    },
+    {
+      "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/64cd5632-23ee-4ff7-92f8-c09dce196d0c.jpeg",
+      "SourceId": "Croissant_Rouge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/",
+      "BasePath": "_content/Croissant_Rouge",
+      "RelativePath": "uploads/64cd5632-23ee-4ff7-92f8-c09dce196d0c.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/64cd5632-23ee-4ff7-92f8-c09dce196d0c.jpeg"
     },
     {
       "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/6da90d49-7fbe-4fa8-8e97-4170a6923d82.png",
@@ -1275,6 +1360,23 @@
       "OriginalItemSpec": "wwwroot/uploads/6da90d49-7fbe-4fa8-8e97-4170a6923d82.png"
     },
     {
+      "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/7598629d-7fc8-4158-b9e8-77dff3d2ab20.png",
+      "SourceId": "Croissant_Rouge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/",
+      "BasePath": "_content/Croissant_Rouge",
+      "RelativePath": "uploads/7598629d-7fc8-4158-b9e8-77dff3d2ab20.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/7598629d-7fc8-4158-b9e8-77dff3d2ab20.png"
+    },
+    {
       "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/bae2b097-794d-4b3b-9c69-4e4da0489e3e.jpeg",
       "SourceId": "Croissant_Rouge",
       "SourceType": "Discovered",
@@ -1290,6 +1392,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/bae2b097-794d-4b3b-9c69-4e4da0489e3e.jpeg"
+    },
+    {
+      "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/bd2df117-4673-4479-8518-f77d1d21ad9f.jpeg",
+      "SourceId": "Croissant_Rouge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/",
+      "BasePath": "_content/Croissant_Rouge",
+      "RelativePath": "uploads/bd2df117-4673-4479-8518-f77d1d21ad9f.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/bd2df117-4673-4479-8518-f77d1d21ad9f.jpeg"
     },
     {
       "Identity": "/Users/macbookair/Desktop/Csharp/Project_C#/Croissant_Rouge/Croissant_Rouge/wwwroot/uploads/c2c1da11-88a0-4e36-b768-e6dbfa944ddd.png",

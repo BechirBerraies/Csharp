@@ -41,24 +41,12 @@ namespace Croissant_Rouge.Models
         public string? Picture { get; set; }
 
 
-        //Category
-
-        public enum Categories
-        {
-            Clothing, Equipment, Food, Medication
-        }
         [Required(ErrorMessage = "What is your Category")]
-        public Categories Category { get; set; }
+        public Utility.Utility.Categries Category { get; set; }
 
 
-        public enum statuses
-        {
-            Unvalid, Valid
-        }
-        [Required(ErrorMessage = "What is your Category")]
-        public statuses status { get; set; }
-
-
+        [Required]
+        public Utility.Utility.Status status { get; set; }
 
         // Created At
         public DateTime CreatedAt { get; set; } = DateTime.Now;

@@ -14,13 +14,9 @@ namespace Croissant_Rouge.Models
         public int DonationId { get; set; }
         public Donation? Donation { get; set; }
 
-        //Shipping Status
-        public enum Shipstatuses
-        {
-         InShipping, Received
-        }
         [Required(ErrorMessage = "What is your Status")]
-        public Shipstatuses ShipStatus { get; set; }
+        public Utility.Utility.ShipStatus ShipStatus { get; set; }
+
 
         // Created At
         public DateTime CreatedAt { get; set; } = DateTime.Now;

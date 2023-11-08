@@ -36,7 +36,6 @@ namespace Croissant_Rouge.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("Picture")
-                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<int>("Quantity")
@@ -125,6 +124,10 @@ namespace Croissant_Rouge.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("CIN")
                         .IsRequired()
                         .HasColumnType("longtext");
 

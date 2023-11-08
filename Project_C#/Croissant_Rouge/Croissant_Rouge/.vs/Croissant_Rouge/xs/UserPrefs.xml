@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EE6670A6-B119-45EE-B483-26F89252CAC9}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Croissant__Rouge PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Views/Users/_Login.cshtml">
     <Files>
       <File FileName="Views/Shared/_UserNav.cshtml" />
@@ -33,8 +33,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Croissant__Rouge PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
