@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema; // New import for ****
 
 
 
+
 namespace Croissant_Rouge.Models
 {
     public class User

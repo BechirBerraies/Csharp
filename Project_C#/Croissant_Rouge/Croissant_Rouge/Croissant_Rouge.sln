@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Croissant_Rouge", "Croissant_Rouge.csproj", "{EE6670A6-B119-45EE-B483-26F89252CAC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Croissant_Rouge.Utility", "..\Croissant_Rouge.Utility\Croissant_Rouge.Utility.csproj", "{969C453E-DF6D-456A-8690-677571F89750}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EE6670A6-B119-45EE-B483-26F89252CAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6670A6-B119-45EE-B483-26F89252CAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6670A6-B119-45EE-B483-26F89252CAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969C453E-DF6D-456A-8690-677571F89750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969C453E-DF6D-456A-8690-677571F89750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969C453E-DF6D-456A-8690-677571F89750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969C453E-DF6D-456A-8690-677571F89750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
